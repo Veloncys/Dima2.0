@@ -245,9 +245,7 @@ header {
 }
 .navbar .navbar-brand {
 	float: 	left;
-	margin-top: 12px;
 	outline: none;
-	padding-bottom: 13px;
 }
 .navbar .navbar-brand h2 {
 	color: #fff;
@@ -1240,22 +1238,27 @@ footer .sub-footer a {
   }
 
   .dropdownli {
-	padding-top: 12px;
-	padding-bottom: 12px;
+	padding-top: 16px;
+	padding-bottom: 16px;
   }
   .dropdownli:hover {
 	background-color: #00bcd4;
   }
 
-  .dropdownli:hover  {
-	color: white;
-  }
+ 
 
   .dropdown ul a:hover {
 	color: white;
 	}
 	.dropdownul{
 		padding-left: 0;
+	}
+
+	a .dropdownase{
+		padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 	}
 
 
